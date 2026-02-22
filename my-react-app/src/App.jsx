@@ -1,9 +1,9 @@
 function App() {
   return (
     <div className="App">
-      <h1>Hello Kilibutan! ;-; </h1>
-      <h1>Maayong adlaw sa inyong tanan<h1/>
-      <h1>We are on a learning journey.....<h1/>
+      <h1>Hello Kalibutan!</h1>
+      <h1>Maayong adalaw sa inyong tanan!</h1>
+      <h1>We are in a learning journey1!</h1>
     </div>
   );
 }
